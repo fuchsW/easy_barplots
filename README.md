@@ -29,7 +29,7 @@ package.check <- lapply(
 )
 
 # AUTHOR/SUPPORT
-Federico Fuchs, fuchsf@fbmc.fcen.uba.ar </br>
+Federico Fuchs Wightman, fuchsf@fbmc.fcen.uba.ar </br>
 
 
 
