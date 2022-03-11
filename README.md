@@ -8,9 +8,9 @@ Easy and customizable barplots, including statistical analysis.
 https://fuchsf.shinyapps.io/easy_barplots_ffw/
 
 # System Requirements
-The App can be accessed using any of the most popular browsers.
+The App can be accessed online using any of the most popular browsers. To run it locally, I recommend using R Studio (https://www.rstudio.org) - see their website for requirements-  
 
-### Python Dependencies
+### R Dependencies
 Easy Barplots relies on the following packages: 
 
 packages = c("shiny", "shinydashboard", "DT", "tidyverse","shinyBS",
