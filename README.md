@@ -4,7 +4,7 @@ Easy Barplots
 
 Easy and customizable barplots, including statistical analysis.
 
-# ShinyApp:
+# ShinyApp
 https://fuchsf.shinyapps.io/easy_barplots_ffw/
 
 # System Requirements
